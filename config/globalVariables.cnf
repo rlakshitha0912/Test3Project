@@ -43,6 +43,11 @@
         <value name="value">113</value>
         <value name="isSecure">false</value>
       </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">projectpassword</value>
+        <value name="value">gvhandle.projectpassword</value>
+        <value name="isSecure">true</value>
+      </record>
     </array>
   </record>
 </IDataXMLCoder>
